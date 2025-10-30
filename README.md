@@ -26,7 +26,6 @@ The chatbot combines semantic search and generative AI to provide accurate and c
 ---
 
 ## Result Screenshots
-![Sample Result]
+![Sample Result](images/Result1.png)
+![Sample Result](images/Result2.png)
 
-### ✅ Option 1: System Architecture Diagram
-A flowchart showing:
