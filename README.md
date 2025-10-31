@@ -26,6 +26,6 @@ The chatbot combines semantic search and generative AI to provide accurate and c
 ---
 
 ## Result Screenshots
-![Sample Result](images/Result1.png)
-![Sample Result](images/Result2.png)
+![Sample Result](images/Image1.png)
+![Sample Result](images/Image2.png)
 
